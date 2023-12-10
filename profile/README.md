@@ -14,10 +14,6 @@ Sparkyflight aims to provide a safe and inclusive space for people to connect, l
 
 - **Inclusive Community**: Sparkyflight fosters an environment where neurodiverse individuals can comfortably share information about their favorite topics without judgment.
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to Sparkyflight, please follow our [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
