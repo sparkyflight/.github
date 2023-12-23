@@ -17,3 +17,6 @@ Sparkyflight aims to provide a safe and inclusive space for people to connect, l
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e72cd9af9dce&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
