@@ -1,4 +1,4 @@
-# Sparkyflight
+# Sparkyflight by [Purrquinox](https://github.com/Purrquinox)
 
 Welcome to Sparkyflight, the future of Social Media designed for the neurodiverse community, with a primary focus on individuals on the Autism Spectrum.
 
